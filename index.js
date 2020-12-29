@@ -17,7 +17,6 @@ const youtube = 'ga ada'; // JANGAN UBAH-UBAH INFO!!!
 //A187ID
 const qrcode = require("qrcode-terminal");
 const moment = require("moment");
-const cheerio = require("cheerio");
 const get = require('got')
 const fs = require("fs");
 const dl = require("./lib/downloadImage.js");
